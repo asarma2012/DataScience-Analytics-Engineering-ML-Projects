@@ -7,14 +7,14 @@ Predict a car's market price using its attributes
 The dataset [imports-85.data](https://archive.ics.uci.edu/ml/datasets/automobile) contains information on various cars. For each car, there is information about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more.
 
 ## Tech Stack
-Python
-Anaconda
-Jupyter Notebook
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
+Python__
+Anaconda__
+Jupyter Notebook__
+NumPy__
+Pandas__
+Matplotlib__
+Scikit-learn__
 
 ## Featured ML Algorithms
-K-Nearest Neighbors
-K-Fold Cross Validation
+K-Nearest Neighbors__
+K-Fold Cross Validation__
