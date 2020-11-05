@@ -18,7 +18,7 @@ IBM Watson Studio<br />
 ## Featured ML Algorithms
 K-Nearest Neighbors (KNN)<br />
 Decision Tree<br />
-Support Vector Machines (SVM)<br 
+Support Vector Machines (SVM)<br /> 
 Logistic Regression<br />
 
 ## Things to Note
