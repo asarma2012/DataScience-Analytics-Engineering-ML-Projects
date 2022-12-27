@@ -10,8 +10,10 @@ In light of recent global pandemics such as COVID-19, a thorough understanding o
 * Conducted literature review of sources for concepts and theories for this project.
 ### Joanna Rashid [https://github.com/joannarashid]
 * Prepared R Markdown Notebook for SIR deterministic models.
-* Wrote Python code for visualization of epidimiological time-series curves
+* Wrote Python code for visualization of epidemiological time-series curves
+* Conducted experiments for epidemiological modeling.
 ### Arnav Sarma [https://github.com/asarma2012]
 * Wrote the Python code for running experiments of Bernoulli trials and gathering epidemic statistics; Experiment codebase serves as the bread and butter for this project.
 * Refactored all code into functions and classes; added docstrings in Python code utilizing the Google style of docstring documentation.
 * Added pseudocode in report to explain the experiment process for modeling and simulating epidemics.
+* Ran experiments consisting of 1M Bernoulli trials.
